@@ -1,0 +1,27 @@
+{
+  "name": "coinage",
+  "version": "0.1.0",
+  "description": "CoinAge (micro board game) engine",
+  "main": "./index.js",
+  "scripts": {
+    "test": "jasmine-node spec/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sergeylukin/coinage.git"
+  },
+  "keywords": [
+    "board",
+    "game",
+    "coinage"
+  ],
+  "author": "Sergey Lukin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sergeylukin/coinage/issues"
+  },
+  "homepage": "https://github.com/sergeylukin/coinage",
+  "devDependencies": {
+    "jasmine-node": "^1.14.5"
+  }
+}
