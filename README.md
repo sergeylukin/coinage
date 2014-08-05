@@ -60,17 +60,14 @@ See the [changelog][]
 
 Released under [MIT license][]
 
-[coinage]: http://github.com/sergeyluykin/coinage
+[coinage]: http://github.com/sergeylukin/coinage
 [npm]: http://npmjs.org
 [mit license]: http://sergey.mit-license.org/
 [es6]: http://wiki.ecmascript.org/doku.php?id=harmony:harmony
 [javascript]: https://developer.mozilla.org/en/docs/Web/JavaScript
-[changelog]:
-http://github.com/sergeylukin/coinage/blob/master/CHANGELOG.md
-[contributing]:
-http://github.com/sergeylukin/coinage/blob/master/CONTRIBUTING.md
-[coinage board game]:
-https://www.kickstarter.com/projects/michaelmindes/coin-age-a-pay-what-you-want-area-control-microgam
+[changelog]: http://github.com/sergeylukin/coinage/blob/master/CHANGELOG.md
+[contributing]: http://github.com/sergeylukin/coinage/blob/master/CONTRIBUTING.md
+[coinage board game]: https://www.kickstarter.com/projects/michaelmindes/coin-age-a-pay-what-you-want-area-control-microgam
 [jasmine-node]: https://github.com/mhevery/jasmine-node
 [restructuredtext]: http://sphinx-doc.org/rest.html
 [sphinx]: http://sphinx-doc.org/
