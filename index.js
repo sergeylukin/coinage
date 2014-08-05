@@ -1,1 +1,4 @@
-module.exports = require('./lib/coinage');
+"use strict"
+
+require('traceur/bin/traceur-runtime');
+module.exports = require('./lib-cjs/coinage').default;

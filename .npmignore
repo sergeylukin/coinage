@@ -1,0 +1,14 @@
+# Temp Files
+**/*.log
+
+# Build Files
+node_modules/
+
+# Development Files
+gulpfile.js
+CONTRIBUTING.md
+CHANGELOG.md
+**/spec/
+# The source code in ES6 which is compiled to ES5 code in `lib-cjs` directory
+# is only used when developing, so ignore it in npm
+**/lib/

@@ -1,8 +1,8 @@
 ## CoinAge
 
 Engine for [CoinAge micro board game][coinage board game] written in
-[JavaScript programming language][javascript] using syntax proposed in
-[ES6][] specification.
+[JavaScript programming language][javascript]. It uses some of syntax proposed
+in [ES6][] specification.
 
 ## Install
 
